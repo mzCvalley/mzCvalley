@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mzCvalley
+- 👋 Hi, I’m @mzCvalley (Ming Ze)
 - 👀 I’m interested in Java Spring Boot Development, Flutter & Angular2
 - 🌱 I’m currently interested in learning Blockchain Technology
 - 💞️ I’m looking to collaborate on Blockchain & A.I. projects
